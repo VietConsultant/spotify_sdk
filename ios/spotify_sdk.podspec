@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 Unofficial Spotify Flutter SDK.
                        DESC
-  s.homepage         = 'https://github.com/VietConsultant/ios-sdk.git'
+  s.homepage         = 'https://github.com/brim-borium/spotify_sdk'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'fdimanidis@gmail.com' }
   s.source           = { :path => '.' }
